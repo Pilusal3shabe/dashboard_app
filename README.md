@@ -1,5 +1,9 @@
 # dashboard_app
 Plant Performance Dashboard
 streamlit
-plotly
 pandas
+plotly
+numpy
+scikit-learn
+scipy
+openpyxl
