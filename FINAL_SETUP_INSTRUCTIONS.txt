@@ -1,0 +1,132 @@
+================================================================================
+TLOWANA RESOURCES DASHBOARD - FINAL COMPLETE VERSION
+================================================================================
+
+✅ THIS IS YOUR COMPLETE, READY-TO-USE, FULLY BRANDED DASHBOARD
+
+FILE: combustion_dashboard_FINAL_BRANDED.py
+
+INCLUDES EVERYTHING:
+✅ Tlowana Resources logo in sidebar
+✅ Company color theme (Green #6B7C2E + Dark Gray #2C2C2C)
+✅ All ML features (LOI Predictor, Anomaly Detection, Gas Optimization, Quality)
+✅ All SPC features (Cp/Cpk, X-bar & R Charts, I-MR Charts)
+✅ All original charts
+✅ Gradient headers and styled navigation
+✅ Branded footer
+
+================================================================================
+SETUP INSTRUCTIONS
+================================================================================
+
+STEP 1: PLACE FILES IN SAME FOLDER
+-----------------------------------
+You need 3 files in the SAME directory:
+
+    your_folder/
+    ├── combustion_dashboard_FINAL_BRANDED.py  ← The dashboard
+    ├── Company_Logo.jpg                        ← The logo (EXACT name!)
+    └── Data_25.xlsx                           ← Your data
+
+CRITICAL: The logo file MUST be named exactly "Company_Logo.jpg"
+
+
+STEP 2: INSTALL PACKAGES (if not done)
+---------------------------------------
+pip install streamlit pandas plotly scikit-learn openpyxl scipy
+
+
+STEP 3: RUN THE DASHBOARD
+--------------------------
+Open terminal/command prompt in your folder and run:
+
+    streamlit run combustion_dashboard_FINAL_BRANDED.py
+
+The dashboard will open in your browser automatically.
+
+
+STEP 4: VERIFY BRANDING WORKS
+------------------------------
+You should see:
+✅ Tlowana Resources logo at top of sidebar
+✅ Green gradient sidebar background
+✅ White text in sidebar
+✅ Green gradient headers on each page
+✅ All charts using company colors
+✅ Branded footer with company name
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+LOGO NOT SHOWING?
+-----------------
+1. Check file is named EXACTLY: Company_Logo.jpg (case-sensitive)
+2. Check it's in the SAME folder as the .py file
+3. Restart streamlit: Press Ctrl+C, then run command again
+4. Check browser console for errors (F12)
+
+COLORS NOT SHOWING?
+-------------------
+1. Clear browser cache (Ctrl+Shift+Delete)
+2. Hard refresh (Ctrl+F5)
+3. Try different browser (Chrome, Firefox, Edge)
+
+ERRORS WHEN RUNNING?
+--------------------
+1. Check all packages installed (see Step 2)
+2. Check Python version (need 3.8 or higher)
+3. Check Data_25.xlsx is present
+4. Read error message - it will tell you what's wrong
+
+================================================================================
+FEATURES INCLUDED
+================================================================================
+
+PAGE 1: Main Dashboard
+- VSD Setpoint VS Kiln Temperature Profile
+- Gas Consumption vs Kiln Temperature Profile  
+- Impact of Kiln Speed on LOI
+- Air Flow vs Gas Consumption
+- Reactivity vs Target
+- Gas Setting vs Gas Consumption
+- Temperature Deviation from Target
+- Temperature Distribution
+
+PAGE 2: ML Analytics
+- LOI Predictor (with What-If Analysis)
+- Anomaly Detection (real-time alerts)
+- Gas Optimization (recommendations)
+- Quality Classification (good/bad prediction)
+
+PAGE 3: Process Capability
+- Cp and Cpk calculations
+- Process capability histogram
+- Defect rate predictions
+- Sigma level calculations
+- % within specification
+
+PAGE 4: Control Charts
+- X-bar & R Charts (process mean & variation)
+- I-MR Charts (individual measurements)
+- Out-of-control point detection
+- Automatic control limits
+
+PAGE 5: ML Model Details
+- Feature importance analysis
+- Model performance metrics
+- Technical specifications
+
+================================================================================
+SUPPORT
+================================================================================
+
+If you encounter issues:
+1. Re-read this document carefully
+2. Check all 3 files are in same folder
+3. Check file names are EXACT (especially logo)
+4. Try the test_branding.py file first to isolate the issue
+
+================================================================================
+
+© Tlowana Resources | Combustion Area Analysis System
