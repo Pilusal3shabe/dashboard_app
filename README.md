@@ -1,5 +1,5 @@
 # dashboard_app
 Plant Performance Dashboard
-streamlit
-plotly
-pandas
+pip install streamlit
+pip install plotly
+pip install pandas
