@@ -13,13 +13,14 @@
 ### Main Dashboard - Combustion Analysis
 *Real-time monitoring of kiln temperatures, LOI, gas consumption, and reactivity*
 
-![Main Dashboard](assets/screenshots/main-dashboard.png)
+<img width="1852" height="727" alt="main-dashboard" src="https://github.com/user-attachments/assets/5a6b5a2e-ae1b-4404-84de-dab6a95fc7d9" />
 *Figure 1: Main dashboard showing temperature trends, LOI, gas consumption, and reactivity metrics*
 
 ### VSD Setpoint vs Kiln Temperature Profile
 *Monitor the relationship between kiln speed and temperature zones*
 
-![Temperature Profile](assets/screenshots/temperature-profile.png)
+<img width="1846" height="776" alt="gas-consumption" src="https://github.com/user-attachments/assets/dc79cc0e-e4e6-463c-a9da-bb9417324a75" />
+
 *Figure 2: VSD speed vs sintering, burner, and inlet temperatures with target overlays*
 
 ### Gas Consumption & Air Flow Analysis
