@@ -26,19 +26,24 @@
 ### Gas Consumption & Air Flow Analysis
 *Track fuel efficiency and airflow optimization*
 
-![Gas Consumption](assets/screenshots/gas-consumption.png)
+<img width="1857" height="770" alt="gas-consumption_2" src="https://github.com/user-attachments/assets/71795a2b-58df-4e61-97ca-ba1f391a3420" />
+
 *Figure 3: Gas consumption vs air flow trends with real-time monitoring*
 
 ### ML Analytics - LOI Predictor
 *AI-powered prediction of Loss on Ignition based on operating conditions*
 
-![LOI Predictor](assets/screenshots/loi-predictor.png)
+<img width="1852" height="847" alt="loi-predictor" src="https://github.com/user-attachments/assets/6132b45c-089c-46a0-876b-71e1af993393" />
+<img width="1841" height="832" alt="loi-predictor_2" src="https://github.com/user-attachments/assets/2bb21efa-d883-4248-afb4-f411ece94b25" />
+
 *Figure 4: Actual vs predicted LOI with what-if analysis capabilities*
 
 ### Process Capability (Cp/Cpk) Analysis
 *Statistical process control metrics for quality assurance*
 
-![Process Capability](assets/screenshots/process-capability.png)
+<img width="1842" height="767" alt="process-capability" src="https://github.com/user-attachments/assets/b492b010-ebae-40e2-a62a-f023f0ac5ca8" />
+<img width="1852" height="762" alt="process-capability_2" src="https://github.com/user-attachments/assets/1df1a04e-93c8-4f29-893f-ee4a43b117fd" />
+
 *Figure 5: Cp/Cpk analysis with histogram and specification limits*
 
 ### Control Charts (X-bar & R / I-MR)
