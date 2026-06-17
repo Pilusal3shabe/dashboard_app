@@ -124,5 +124,3 @@ This dashboard bridges that gap by providing **real-time visibility** into key k
 | **UI Enhancements** | Custom CSS with Tlowana Resources branding |
 
 ---
-
-## 📁 Project Structure
