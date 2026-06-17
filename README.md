@@ -121,6 +121,6 @@ This dashboard bridges that gap by providing **real-time visibility** into key k
 | **Visualization** | Plotly, Plotly Express |
 | **Statistical Analysis** | Scipy.stats for capability analysis |
 | **Data Sources** | Excel/CSV upload via Pandas |
-| **UI Enhancements** | Custom CSS with Tlowana Resources branding |
+| **UI Enhancements** | Custom CSS with Company branding |
 
 ---
