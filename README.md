@@ -14,6 +14,8 @@
 *Real-time monitoring of kiln temperatures, LOI, gas consumption, and reactivity*
 
 <img width="1852" height="727" alt="main-dashboard" src="https://github.com/user-attachments/assets/5a6b5a2e-ae1b-4404-84de-dab6a95fc7d9" />
+<img width="1852" height="701" alt="temperature-control" src="https://github.com/user-attachments/assets/7eae734e-49e8-43ba-af01-c6bf5761b27e" />
+
 *Figure 1: Main dashboard showing temperature trends, LOI, gas consumption, and reactivity metrics*
 
 ### VSD Setpoint vs Kiln Temperature Profile
@@ -49,14 +51,11 @@
 ### Control Charts (X-bar & R / I-MR)
 *Statistical process control charts for monitoring process stability*
 
-![Control Charts](assets/screenshots/control-charts.png)
+<img width="1842" height="802" alt="control-charts" src="https://github.com/user-attachments/assets/026263db-3401-4d4d-86f5-984811f4e4f1" />
+<img width="1852" height="652" alt="image" src="https://github.com/user-attachments/assets/78c9a839-666f-43af-9f32-a38b84dfc7b9" />
+
 *Figure 6: X-bar and R control charts with out-of-control detection*
 
-### Mobile Responsive View
-*Dashboard optimized for tablet and mobile devices*
-
-![Mobile View](assets/screenshots/mobile-view.png)
-*Figure 7: Responsive design accessible on the plant floor*
 
 ---
 
